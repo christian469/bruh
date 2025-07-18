@@ -1,4 +1,4 @@
-function setup(){
+function setup(){ // 
   //draw the canvas 
   createCanvas(800, 600)
   backround('lightorange'); ''
