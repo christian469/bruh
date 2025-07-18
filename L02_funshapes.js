@@ -1,6 +1,6 @@
 function setup(){ // { this means the start of a block
   //draw the canvas 
-  createCanvas(1000, 1000)
+  createCanvas(10000, 1000)
   background('orange');
 } // this means the end of a block of code
 
@@ -28,7 +28,7 @@ function draw() {
          ellipse(610,90,150,150);
     
   // Challenge 3: A house using rect() function
-         fillrect(150,300,500,400)
+         rect(150,300,500,400)
          ellipse(300,3000,120,120)
   // Challenge 4: A rocketship using triangle() function
 
