@@ -15,14 +15,6 @@ function setup(){ // { this means the start of a block
 
 /*
 Task 1: Add the setup() function
-
-
-
-
-
-
-
-
 */
 
 function draw() {
