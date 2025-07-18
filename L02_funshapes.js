@@ -1,8 +1,8 @@
-function setup(){ // 
+function setup(){ // { this means the start of a block
   //draw the canvas 
   createCanvas(800, 600)
   backround('lightorange'); ''
-}
+} // this means the end of a block of code
 
 
 
