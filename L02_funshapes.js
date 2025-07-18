@@ -19,18 +19,19 @@ Task 1: Add the setup() function
 
 function draw() {
   // Challenge 1: An eye using ellipse() function
-
-
-
-
-
-
-
-
-
-
-
   
+
+
+
+
+
+
+
+
+
+
+
+
   
   // Challenge 2: A face using circle() function
 
