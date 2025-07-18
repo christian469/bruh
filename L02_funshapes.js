@@ -21,7 +21,7 @@ function draw() {
   // Challenge 1: An eye using ellipse() function
     ellipse(400,300,300,200);
     ellipse(400,300,100,200);
-     
+   ellipse(400,300,90,200);
 
 
 
