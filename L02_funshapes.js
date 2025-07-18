@@ -26,6 +26,11 @@ function draw() {
         ellipse(400,300,600,500);
         ellipse(220,50,150,150);
         ellipse(610,50,150,150);
+
+
+        //     ellipse(400,300,500,400);
+        // ellipse(220,75,150,150);
+        // ellipse(610,90,150,150);
     
   // Challenge 3: A house using rect() function
         
