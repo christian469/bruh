@@ -23,7 +23,7 @@ function draw() {
     // ellipse(400,300,200,200);
     // ellipse(400,300,50,100);
   // Challenge 2: A face using circle() function
-        
+        ellipse(400,300,300,200);
         ellipse(220,50,150,150);
         ellipse(610,50,150,150);
     
