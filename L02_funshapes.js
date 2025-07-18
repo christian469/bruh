@@ -20,7 +20,7 @@ Task 1: Add the setup() function
 function draw() {
   // Challenge 1: An eye using ellipse() function
     ellipse(400,300,100,200);
- ellipse(300,200,200,200);
+    ellipse(300,200,200,200); 
 
 
 
