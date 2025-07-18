@@ -2,7 +2,7 @@ function setup(){ // { this means the start of a block
   //draw the canvas 
   createCanvas(1000, 1000)
   background('orange'); 
-  fillrect()
+  fillrect('green')
 } // this means the end of a block of code
 
 
