@@ -34,7 +34,7 @@ function draw() {
          ellipse(250,350,95,95)
          ellipse(550,490,95,100)
 
-         triangle(500,150, 100, 100, 75,200); // x1, y1, x2, y2, x3, y3
+         triangle(500,190, 100, 100, 75,200); // x1, y1, x2, y2, x3, y3
   // Challenge 4: A rocketship using triangle() function
 
   // Challenge 5: A square face using quad() function
