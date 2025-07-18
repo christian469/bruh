@@ -32,7 +32,7 @@ function draw() {
          rect(150,300,500,450)
          fill('black');
          ellipse(250,350,95,95)
-         ellipse(400,450,95,100)
+         ellipse(600,450,95,100)
   // Challenge 4: A rocketship using triangle() function
 
   // Challenge 5: A square face using quad() function
