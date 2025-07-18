@@ -24,7 +24,7 @@ function draw() {
     // ellipse(400,300,50,100);
   // Challenge 2: A face using circle() function
         ellipse(400,300,470,450);
-        ellipse(280,100,100,80);
+        ellipse(280,100,150,100);
     
     
   // Challenge 3: A house using rect() function
