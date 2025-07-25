@@ -23,7 +23,7 @@ for (let i = 0; i < 10; i++){
 console.log(c);
 function draw() {
   // Recap 1: Repeating Circles
-    //circle
+    // circle(100)
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
