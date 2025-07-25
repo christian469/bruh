@@ -7,7 +7,7 @@ function setup() {
 //b=20
 //c=i + b
 
-
+let i = 10;
 
 
 
