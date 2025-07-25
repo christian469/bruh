@@ -37,7 +37,7 @@ function draw() {
         
         }
         else{
-          
+          fill(225;)
         }
 
 
