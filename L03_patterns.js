@@ -47,7 +47,7 @@ function draw() {
          // j for column 
          for (let j = 0; j< 5; j++){
           if (count % 2 == 0){
-            
+              fill(0)
           }
          }
 
