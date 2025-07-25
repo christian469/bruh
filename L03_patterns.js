@@ -41,7 +41,7 @@ function draw() {
     }
   
          // }
-         let boxwidth = width / 5; // width 
+         let boxwidth = width / 5; // width returns the widith o
 
 
 
