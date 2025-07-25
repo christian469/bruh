@@ -12,7 +12,9 @@ let i = 10;
 let b = 20;
 let c = i + b;
 
-for (let i = 0; i < 10; i++)
+for (let i = 0; i < 10; i++){
+  
+}
 
 
 
