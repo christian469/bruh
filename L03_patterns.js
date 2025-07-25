@@ -37,8 +37,10 @@ function draw() {
         
         }
         else{
-          fill(225); //
+          fill(225); //gray
         }
+
+        
 
 
 
