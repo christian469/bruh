@@ -45,7 +45,9 @@ function draw() {
          let countt = 0;
 
          // j for column 
-         for (let j = 0; j< 5; j++)
+         for (let j = 0; j< 5; j++){
+          
+         }
 
 
 
