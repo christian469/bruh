@@ -27,7 +27,7 @@ function draw() {
     // circle(200,100,50);
     // circle(300,100,50);
     // circle(400,100,50);
-
+     ellipse(220,75,150,150);
 
         circle(50 * i, 25, 50);
     for(let i = 1; i <= 20; i++){
