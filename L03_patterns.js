@@ -29,7 +29,7 @@ function draw() {
     // circle(400,100,50);
 
     for(let i = 1; i <= 20; i++){
-        circle
+        circle(100)
     }
   // Task 1: Colour Gradient
 
