@@ -27,16 +27,17 @@ function draw() {
     // circle(200,100,50);
     // circle(300,100,50);
     // circle(400,100,50);
-if (i % 2 === 0){
+
+
+        circle(50 * i, 25, 50);
+    for(let i = 1; i <= 20; i++){
+      if (i % 2 === 0){
          fill(0);
         
         }
         else{
           fill(225); //gray
         }
-
-        circle(50 * i, 25, 50);
-    for(let i = 1; i <= 20; i++){
         circle(100 * i, 100, 50);
     }
       
