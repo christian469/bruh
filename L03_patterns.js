@@ -41,11 +41,14 @@ function draw() {
     }
   
          // }
-         let boxwidth = width / 5; // width returns the widith of canvas
-         let countt = 0;
-
-         // j for column 
-        for (let j = 0; j< 5; j++){
+         let numSquare = 20
+         let boxwidth = width / numSquare; // width returns the widith of canvas
+         let count = 0;
+        // i for row
+        for (let i = 0; i< numSquare; i++){
+         
+        // j for column 
+        for (let j = 0; j< numSquare;  j++){
          
           if (count % 2 == 0){
               fill(0); // if even, fill white
@@ -56,8 +59,8 @@ function draw() {
               count += 1 // increase the value of count by 1
 
               rect(i*boxwidth, j*boxwidth, boxwidth, boxwidth);
-            }
             
+            }
 
 
 
