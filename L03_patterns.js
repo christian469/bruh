@@ -6,6 +6,7 @@ function setup() {
 //i=10
 //b=20
 //c=i + b
+//print(c)
 
 let i = 10;
 let b = 20;
