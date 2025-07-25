@@ -40,7 +40,7 @@ function draw() {
         circle(100 * i, 100, 50);
     }
   
-         square(150,300,500,450)
+         square(1500,300,5000,4500)
 
 
 
