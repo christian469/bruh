@@ -32,6 +32,7 @@ function draw() {
         circle(100 * i, 100, 50);
     }
 
+        if (i % 2 === 0){}
 
 
 
@@ -48,7 +49,6 @@ function draw() {
 
 
 
-    
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
