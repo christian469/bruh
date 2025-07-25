@@ -5,7 +5,7 @@ function setup() {
   }
 //i=10
 //b=20
-//c=i +
+//c=i + b
 
 
 
