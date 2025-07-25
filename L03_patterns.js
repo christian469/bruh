@@ -40,7 +40,7 @@ function draw() {
           fill(225); //gray
         }
 
-        circle(50 * i)
+        circle(50 * i, 25, 50)
 
 
 
