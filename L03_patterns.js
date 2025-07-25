@@ -12,6 +12,12 @@ let i = 10;
 let b = 20;
 let c = i + b;
 
+
+
+
+
+//print out 
+
 console.log(c);
 function draw() {
   // Recap 1: Repeating Circles
