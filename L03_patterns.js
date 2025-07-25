@@ -27,11 +27,7 @@ function draw() {
     // circle(200,100,50);
     // circle(300,100,50);
     // circle(400,100,50);
-
-    for(let i = 1; i <= 20; i++){
-        circle(100 * i, 100, 50);
-    }
-      if (i % 2 === 0){
+if (i % 2 === 0){
          fill(0);
         
         }
@@ -40,6 +36,10 @@ function draw() {
         }
 
         circle(50 * i, 25, 50);
+    for(let i = 1; i <= 20; i++){
+        circle(100 * i, 100, 50);
+    }
+      
 
 
 
