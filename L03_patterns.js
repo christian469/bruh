@@ -41,7 +41,7 @@ function draw() {
     }
   
          // }
-         let numSquare = 20
+         let numSquare = 17
          let boxwidth = width / numSquare; // width returns the widith of canvas
          let count = 0;
         // i for row
