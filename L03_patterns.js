@@ -31,7 +31,16 @@ function draw() {
     for(let i = 1; i <= 20; i++){
         circle(100 * i, 100, 50);
     }
-      
+      if (i % 2 === 0){
+         fill(0);
+        
+        }
+        else{
+          fill(225); //gray
+        }
+
+        circle(50 * i, 25, 50);
+
 
 
 
