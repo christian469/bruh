@@ -36,7 +36,7 @@ function draw() {
         
         }
         else{
-          fill(225); //gray
+          fill(225); //white
         }
         circle(100 * i, 100, 50);
     }
