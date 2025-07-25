@@ -24,6 +24,7 @@ console.log(c);
 function draw() {
   // Recap 1: Repeating Circles
     // circle(100,100,50);
+    // circle
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
