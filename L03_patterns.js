@@ -4,7 +4,7 @@ function setup() {
     noLoop(); // Stops continuous drawing
   }
 //i=10
-//b
+//b=20
 
 
 
