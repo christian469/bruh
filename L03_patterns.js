@@ -33,7 +33,7 @@ function draw() {
     }
 
         if (i % 2 === 0){
-          FileList(0)
+         fill(0);
         }
 
 
