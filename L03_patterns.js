@@ -45,14 +45,19 @@ function draw() {
          let countt = 0;
 
          // j for column 
-         for (let j = 0; j< 5; j++){
+        for (let j = 0; j< 5; j++){
+         
           if (count % 2 == 0){
               fill(0); // if even, fill white
           }
-         }
+          else{  
+              fill(225); // if odd, fill black
+              }
+              count += 1 // increase the value of count by 1
 
-
-
+              rect(i*boxwidth, j*boxwidth, boxwidth, boxwidth);
+            }
+            
 
 
 
