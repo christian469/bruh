@@ -31,6 +31,24 @@ function draw() {
     for(let i = 1; i <= 20; i++){
         circle(100 * i, 100, 50);
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
