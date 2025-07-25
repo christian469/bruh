@@ -13,7 +13,7 @@ let b = 20;
 let c = i + b;
 
 for (let i = 0; i < 10; i++){
-  console.log(i)
+  console.log(i);
 }
 
 
@@ -23,7 +23,7 @@ for (let i = 0; i < 10; i++){
 console.log(c);
 function draw() {
   // Recap 1: Repeating Circles
-
+  
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
