@@ -61,6 +61,7 @@ function draw() {
               rect(i*boxwidth, j*boxwidth, boxwidth, boxwidth);
             
             }
+          }
 
 
 
