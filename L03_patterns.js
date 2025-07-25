@@ -3,6 +3,7 @@ function setup() {
     background(220);
     noLoop(); // Stops continuous drawing
   }
+//
 
 
 
@@ -17,7 +18,6 @@ function setup() {
 
 
 
-  
   
 function draw() {
   // Recap 1: Repeating Circles
