@@ -16,7 +16,7 @@ let c = i + b;
 
 
 
-//print out 
+//print out numbers from 0 to 9
 
 console.log(c);
 function draw() {
