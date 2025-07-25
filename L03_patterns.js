@@ -8,7 +8,7 @@ function setup() {
 //c=i + b
 
 let i = 10;
-
+let b = 20
 
 
 
