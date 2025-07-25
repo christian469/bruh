@@ -41,7 +41,7 @@ function draw() {
     }
   
          // }
-         let 
+         let boxwidth
 
 
 
