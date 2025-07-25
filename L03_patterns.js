@@ -44,7 +44,7 @@ function draw() {
          let boxwidth = width / 5; // width returns the widith of canvas
          let countt = 0;
 
-         
+         // j for col
 
 
 
