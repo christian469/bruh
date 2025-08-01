@@ -1,11 +1,29 @@
-
+let shapeColour = 'blue'; // variable
+let diameter = 0
 function setup() {
-     createCanvas(400, 400);
-     background(220);
+     createCanvas(600, 600);
+     // background('');
 }
 
 function draw() {
-    for (let i = 0; 5; i++){
-         circle( 50, 400, 100)
-    }
+    fill(shapeColour); // calling the fill
+    circle(width / 2, height/ 2, diameter);
+}
+
+
+function mousePressed(){
+    // evertime mouse pressed, this code runs
+//     shapeColour = 'red';
+    shapeColour = color(random(255), random(225), 255);
+    // random(255)
+}
+
+// mousReleased
+function mouseReleased(){
+     shapeColour = 'blue';
+}
+
+function mouseMoved(){
+     
+     diameter = mouseY;
 }
