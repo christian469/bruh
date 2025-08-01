@@ -14,7 +14,7 @@ function draw() {
 
 function mousePressed(){
     // evertime mouse pressed, this code runs
-//     shapeColour = 'red';
+//     shapeColor = 'red';
     shapeColour = color(random(255), random(225), 255);
     // random(255)
 }
