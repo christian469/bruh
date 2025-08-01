@@ -33,5 +33,5 @@ function mouseMoved(){
     shapeColour = color(random(255), random(225), 255);
     fill(shapeColor);
     noStroke();
-         
+    circle    
 }
