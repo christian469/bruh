@@ -1,4 +1,4 @@
-let shapeColour = 'blue'; // variable
+let shapeColor = 'blue'; // variable
 let diameter = 0
 function setup() {
      createCanvas(1000, 1000);
@@ -7,7 +7,7 @@ function setup() {
 
 function draw() {
       background('');
-    fill(shapeColour); // calling the fill
+    fill(shapeColor); // calling the fill
     circle(width / 2, height/ 2, diameter);
 }
 
