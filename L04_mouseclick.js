@@ -6,6 +6,7 @@ function setup() {
 }
 
 function draw() {
+      background('');
     fill(shapeColour); // calling the fill
     circle(width / 2, height/ 2, diameter);
 }
