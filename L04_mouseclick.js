@@ -1,7 +1,7 @@
 let shapeColour = 'blue'; // variable
 let diameter = 0
 function setup() {
-     createCanvas(6000, 600);
+     createCanvas(1000, 600);
      // background('');
 }
 
