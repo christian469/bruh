@@ -15,13 +15,13 @@ function draw() {
 function mousePressed(){
     // evertime mouse pressed, this code runs
 //     shapeColor = 'red';
-    shapeColour = color(random(255), random(225), 255);
+    shapeColor = color(random(255), random(225), 255);
     // random(255)
 }
 
 // mousReleased
 function mouseReleased(){
-     shapeColour = 'blue';
+     shapeColor = 'blue';
 }
 
 function mouseMoved(){
