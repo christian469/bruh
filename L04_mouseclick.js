@@ -29,4 +29,6 @@ function mouseMoved(){
      diameter = mouseY;
 }
 
-function mouseMoved()
+function mouseMoved(){
+    
+}
