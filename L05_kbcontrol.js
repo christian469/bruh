@@ -6,4 +6,6 @@ function setup(){
 
 function draw(){
     backround('s;iver');
+
+    rect
 }
