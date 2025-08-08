@@ -26,4 +26,4 @@ function keyReleased(){
 
 
 // let a = 1;
-// let b = 
+// let b = "1"
