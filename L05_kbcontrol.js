@@ -5,8 +5,9 @@ function setup(){
 }
 
 function draw(){
-    background('sliver');
-    // rect(width/2, height/2, rectsize, rectsize);
+    background('sliver'); 
+    rect(width/2, height/2, rectsize, rectsize);
+   
 }
 
 // keyPressed and keyReleased
