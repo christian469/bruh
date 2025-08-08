@@ -14,6 +14,7 @@ function mousePressed(){
     // evertime mouse pressed, this code runs
     // shapeColor = 'red';
     shapeColor = color(random(255), random(225), 255);
+    diameter = 5;
     // random(255)
 }
 
