@@ -5,7 +5,7 @@ function setup(){
 }
 
 function draw(){
-    backround('sliver');
+    background('sliver');
 
     rectsize(width/2, height/2, rectsize, rectsize);
 }
