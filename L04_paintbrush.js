@@ -1,6 +1,5 @@
 let shapeColor;
 let diameter = 5;
-console.log('hello');
 
 function setup() {
      createCanvas(1000, 1000);
