@@ -16,10 +16,11 @@ function keyPressed(){
        rectsize = 100;
    }
    else if (key === 's'){
-    
-   }
 } 
 function keyReleased(){
+    
+}
     rectsize = 50;
+
 }
 
