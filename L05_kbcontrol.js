@@ -2,7 +2,7 @@ let rectsize = 100;
 
 function setup(){
     createCanvas(600,400);
-    cx = 
+    cx = width/2;
 }
 
 function draw(){
