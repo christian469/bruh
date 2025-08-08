@@ -2,7 +2,7 @@ let rectsize = 100;
 let cx, cy;
 
 function setup(){
-    createCanvas(600,400);
+    createCanvas(1000,800);
     cx = width/2;
     cy = height/2;
 }
