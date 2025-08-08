@@ -10,4 +10,4 @@ function draw(){
     rectsize(width/2, height/2, rectsize, rectsize);
 }
 
-// keyPressed and 
+// keyPressed and keyReleased
