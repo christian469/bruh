@@ -9,37 +9,37 @@ function setup(){
 
 function draw(){
     background('sliver'); 
+   
     rect(cx, cy, rectsize, rectsize);
    
     if (keyIsDown(68)){
         cx = cx + 1;
     }
-    else if(keyIsDown(LEFT_ARROW)){
-        cx = cx - 1
- 
+    else if(keyIsDown(65)){
+        cx = cx - 1;
     }
 }
 
-// keyPressed and keyReleased
-function keyPressed(){
-   if (key === 'a'){
-       rectsize = 100;
-   }
-   else if (key === 's'){
-} 
-function keyReleased(){
-     rectsize = 50;
-}
+// // keyPressed and keyReleased
+// function keyPressed(){
+//    if (key === 'a'){
+//        rectsize = 100;
+//    }
+//    else if (key === 's'){
+// } 
+// function keyReleased(){
+//      rectsize = 50;
+// }
 
 
-}
+// }
 
 
-// let a = 1;
-// let b = "1";
+// // let a = 1;
+// // let b = "1";
 
-// if (a===b){
-//     console.log('lalala');
-//}
+// // if (a===b){
+// //     console.log('lalala');
+// //}
 
 
