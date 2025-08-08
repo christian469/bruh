@@ -11,3 +11,6 @@ function draw(){
 }
 
 // keyPressed and keyReleased
+function keyPressed(){
+    
+}
