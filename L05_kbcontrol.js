@@ -1,5 +1,5 @@
 let rectsize = 100;
-
+let cx
 function setup(){
     createCanvas(600,400);
     cx = width/2;
