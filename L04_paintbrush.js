@@ -1,4 +1,5 @@
 let shapeColor;
+let diameter = 5;
 console.log('hello');
 
 function setup() {
