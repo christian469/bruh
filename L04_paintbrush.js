@@ -4,7 +4,7 @@ function setup() {
 }
 
 function draw(){
-     circle(mouseX, mouseY, height/ 2, diameter);
+    //  circle(mouseX, mouseY, height/ 2, diameter);
 }
 
 function mousePressed(){
