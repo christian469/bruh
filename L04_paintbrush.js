@@ -3,3 +3,6 @@ function setup() {
      // background('gray');
 }
 
+function draw() {
+    
+}
