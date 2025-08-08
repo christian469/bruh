@@ -11,7 +11,9 @@ function draw(){
     background('sliver'); 
     rect(cx, cy, rectsize, rectsize);
    
-    if (keyIsDown(RIGHT_ARROW))
+    if (keyIsDown(RIGHT_ARROW)){
+        cx 
+    }
 }
 
 // keyPressed and keyReleased
