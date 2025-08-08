@@ -13,10 +13,10 @@ function draw(){
     rect(cx, cy, rectsize, rectsize);
    
     if (keyIsDown(68)){
-        cx = cx + 1;
+        cx = cx + 30;
     }
     else if(keyIsDown(65)){
-        cx = cx - 1;
+        cx = cx - 10;
     }
 }
 
