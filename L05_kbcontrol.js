@@ -1,11 +1,11 @@
 let rectsize;
 
 function setup(){
-    createCanvas(60000,40000);
+    createCanvas(600,40000);
 }
 
 function draw(){
-    backround('s;iver');
+    backround('sliver');
 
     rectsize(width/2, height/2, rectsize, rectsize);
 }
