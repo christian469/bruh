@@ -14,6 +14,9 @@ function draw(){
     if (keyIsDown(RIGHT_ARROW)){
         cx = cx + 1;
     }
+    else if(keyIsDown(LEFT_ARROW)){
+        
+    }
 }
 
 // keyPressed and keyReleased
