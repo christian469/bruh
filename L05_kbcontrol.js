@@ -13,7 +13,7 @@ function draw(){
 // keyPressed and keyReleased
 function keyPressed(){
    if (key === 'a'){
-    
+       rectsize = 100;
    }
        rectsize = 100;
 } 
