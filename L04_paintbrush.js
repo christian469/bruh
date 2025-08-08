@@ -23,5 +23,5 @@ function mouseDragged(){
     fill(shapeColor);
     noStroke();
     circle(mouseX,  mouseY,  diameter); 
-    diameter += 1;
+    diameter += 0.5;
 }
