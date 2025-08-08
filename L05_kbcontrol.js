@@ -12,6 +12,7 @@ function draw(){
 
 // keyPressed and keyReleased
 function keyPressed(){
+    
     rectsize = 100;
 }
 function keyReleased(){
