@@ -15,7 +15,9 @@ function keyPressed(){
    if (key === 'a'){
        rectsize = 100;
    }
-   elswe
+   else if (key === 's'){
+    
+   }
 } 
 function keyReleased(){
     rectsize = 50;
