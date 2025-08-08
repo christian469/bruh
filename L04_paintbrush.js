@@ -2,7 +2,7 @@ let shapeColor;
 let diameter = 5;
 
 function setup() {
-     createCanvas(1000, 1000);
+     createCanvas(1000, 10000);
      background('gray');
 }
 
