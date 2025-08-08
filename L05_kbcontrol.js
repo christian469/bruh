@@ -11,11 +11,11 @@ function draw(){
     background('sliver'); 
     rect(cx, cy, rectsize, rectsize);
    
-    if (keyIsDown(RIGHT_ARROW)){
+    if (keyIsDown(68)){
         cx = cx + 1;
     }
     else if(keyIsDown(LEFT_ARROW)){
-        
+
     }
 }
 
