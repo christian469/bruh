@@ -12,7 +12,7 @@ function draw(){
     rect(cx, cy, rectsize, rectsize);
    
     if (keyIsDown(RIGHT_ARROW)){
-        cx 
+        cx = cx - 1;
     }
 }
 
