@@ -18,9 +18,9 @@ function keyPressed(){
    else if (key === 's'){
 } 
 function keyReleased(){
-    
+     rectsize = 50;
 }
-    rectsize = 50;
+    
 
 }
 
