@@ -1,7 +1,7 @@
-let rectsize = 50;
+let rectsize = 500;
 
 function setup(){
-    createCanvas(600,400);
+    createCanvas(6000,400);
 }
 
 function draw(){
