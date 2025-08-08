@@ -4,6 +4,7 @@ let cx, cy;
 function setup(){
     createCanvas(600,400);
     cx = width/2;
+    cy = height
 }
 
 function draw(){
