@@ -6,7 +6,7 @@ function setup(){
 
 function draw(){
     background('sliver'); 
-    rect(CSSSkewX, CSSSkewY, rectsize,rectsize;
+    rect(CSSSkewX, cy, rectsize, rectsize);
    
 }
 
