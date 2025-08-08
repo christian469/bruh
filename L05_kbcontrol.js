@@ -15,6 +15,7 @@ function draw(){
         cx = cx + 1;
     }
     else if(keyIsDown(LEFT_ARROW)){
+        cx
  
     }
 }
