@@ -4,5 +4,5 @@ function setup() {
 }
 
 function draw() {
-    fill(shapeColor); // calling the fill
+    shapeColor = color(random(255), random(225), 255);
 }
