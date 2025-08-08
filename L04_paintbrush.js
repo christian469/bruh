@@ -8,7 +8,7 @@ function setup() {
 //     shapeColor = color(random(255), random(225), 255);
 //     random(255)
 
-
+function mousePressed()
 
 function mouseDragged(){
     shapeColor = color(random(255), random(225), 255);
