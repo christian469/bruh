@@ -7,5 +7,6 @@ function setup(){
 function draw(){
     backround('s;iver');
 
-    rectsize(width/2, height/2, rectsize, )
+    rectsize(width/2, height/2, rectsize, rectsize);
+
 }
