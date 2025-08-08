@@ -2,6 +2,11 @@ function setup() {
      createCanvas(1000, 1000);
      // background('gray');
 }
+
+function draw(){
+    
+}
+
 function mousePressed(){
     // evertime mouse pressed, this code runs
     // shapeColor = 'red';
