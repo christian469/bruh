@@ -14,7 +14,9 @@ function  setup(){
 
     boolFlag = false;
 
-    fill
+    fill('white');
+    textSize(32);
+    text
 }
 
 function draw(){
