@@ -1,7 +1,6 @@
 // write your codes here
 let starwars;
-let boolFlag;
-
+letlet
 // preload function
 function preload(){
     starwars = loadSound("assets/star_wars_theme_8_bit.mp3");
@@ -20,6 +19,10 @@ function  setup(){
     text("18",50, 100);
     text("killing black people",50, 150);
 }
+
+
+
+
 
 function draw(){
 
