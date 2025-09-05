@@ -18,7 +18,7 @@ function  setup(){
     textSize(21);
     text("Uncle Roger",50, 50);
     text("13",50, 100);
-    text("killing people",50, 150);
+    text("killing black people",50, 150);
 }
 
 function draw(){
