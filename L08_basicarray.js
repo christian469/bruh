@@ -4,6 +4,7 @@ let starwars;
 function preload(){
     starwars = loadsound("assets/star_wars_theme_8_bit.mp3");
 }
+
 // setup()
 function  setup(){
     createCanvas(600, 400);
