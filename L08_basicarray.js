@@ -16,7 +16,7 @@ function  setup(){
 
     fill('white');
     textSize(32);
-    text
+    textalign
     text("GOODBYE WORLD", width/2, height/ 2);
 }
 
