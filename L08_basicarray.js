@@ -21,8 +21,8 @@ function draw(){
 
 
 function mousePressed(){
-    if (boolFlag)
-    starwars.play();
+    if (boolFlag);
+        starwars.play();
 }
 
 function mouseReleased(){
