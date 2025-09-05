@@ -6,5 +6,5 @@ function preload(){
 }
 // setup()
 function  setup(){
-    
+    create
 }
