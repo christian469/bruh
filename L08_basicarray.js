@@ -27,6 +27,9 @@ function  setup(){
     console.log(favFood[0])
 }
 
+   
+
+
 function draw(){
 
 }
