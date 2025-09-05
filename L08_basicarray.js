@@ -31,7 +31,8 @@ function  setup(){
         // console.log(i);
         console.log(favFood[i]);
     }
-    textSize
+    textSize(30)
+    
 
 function draw(){
 
