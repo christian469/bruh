@@ -1,4 +1,4 @@
 // write your codes here
-let star
+let starwars;
 // setup()
 
