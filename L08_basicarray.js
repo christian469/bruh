@@ -15,7 +15,7 @@ function  setup(){
     boolFlag = false;
 
     fill('black');
-    textSize(21);
+    textSize(25);
     text("Uncle Roger",50, 50);
     text("13",50, 100);
     text("killing black people",50, 150);
