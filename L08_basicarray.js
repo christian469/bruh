@@ -35,7 +35,6 @@ function  setup(){
     textAlign(centre, centre)
 
 function draw(){
-
 }
 
 
