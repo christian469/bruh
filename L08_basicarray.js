@@ -21,10 +21,11 @@ function  setup(){
     text("killing black people",50, 150);
 
   
-    favFood = ["human blood", "pasta", "dogs", "human meat", ];
+    favFood = ["human blood", "pasta", "dogs", "human meat", "cork"];
 
     console.log(favFood[3]);
-    console.log(favFood[0])
+    console.log(favFood[0]);
+    console
 }
     for (let i = 0; i < 10; i++){
         console.log(i);
