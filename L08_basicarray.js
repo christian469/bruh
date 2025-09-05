@@ -26,7 +26,9 @@ function  setup(){
     console.log(favFood[3]);
     console.log(favFood[0])
 }
-    for (let i = 0; i < 10; i++)}
+    for (let i = 0; i < 10; i++){
+        
+    }
 
 function draw(){
 
