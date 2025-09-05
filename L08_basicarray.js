@@ -28,10 +28,11 @@ function mousePressed(){
     else{
 
     }
+
+    boolFlag = !boolFlag
 }
 
 // function mouseReleased(){
 //     starwars.stop();
 // }
 
-boolFlag = !boolFlag
