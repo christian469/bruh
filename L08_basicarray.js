@@ -13,6 +13,8 @@ function  setup(){
     background("brown");
 
     boolFlag = false;
+
+    fill
 }
 
 function draw(){
