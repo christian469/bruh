@@ -33,8 +33,6 @@ function  setup(){
     }
     textSize(30)
     textAlign(centre, centre)
-    Text("cork")
-    Text("meat")
 
 function draw(){
 
