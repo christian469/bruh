@@ -1,4 +1,4 @@
 // write your codes here
-let 
+let star
 // setup()
 
