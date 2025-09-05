@@ -31,7 +31,7 @@ function  setup(){
         console.log(i);
     }
 
-    console.log
+    console.log(favFood)
 
 function draw(){
 
