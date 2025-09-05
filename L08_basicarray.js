@@ -32,7 +32,7 @@ function  setup(){
         // console.log(i);
         console.log(favFood[i]);
     }
-    text(i+1 + "." + favFood[i], width);
+    text(i+1 + "." + favFood[i], width/ 2, 100 + 1* 50);
     
 
 function draw(){
