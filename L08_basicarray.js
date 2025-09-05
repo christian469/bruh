@@ -1,6 +1,6 @@
 // write your codes here
 let starwars;
-let boolFlag
+let boolFlag;
 
 // preload function
 function preload(){
