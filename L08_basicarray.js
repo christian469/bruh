@@ -28,3 +28,5 @@ function mousePressed(){
 function mouseReleased(){
     starwars.stop();
 }
+
+boolFlag = !boolFlag
