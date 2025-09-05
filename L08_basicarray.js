@@ -1,44 +1,46 @@
 // write your codes here
-// let starwars;
-// let boolFlag;
+let starwars;
+let boolFlag;
 
-// // preload function
-// function preload(){
-//     starwars = loadSound("assets/star_wars_theme_8_bit.mp3");
-// }
+// preload function
+function preload(){
+    starwars = loadSound("assets/star_wars_theme_8_bit.mp3");
+}
 
-// // setup()
-// function  setup(){
-//     createCanvas(600, 400);
-//     background("brown");
+// setup()
+function  setup(){
+    createCanvas(400, 400);
+    background("brown");
 
-//     boolFlag = false;
+    boolFlag = false;
 
-//     fill('white');
-//     textSize(32);
-//     text("GOODBYE WORLD", width/2, height/ 2);
-// }
+    fill('black');
+    textSize(21);
+    text("Uncle Roger",50, 50);
+    text("13",50, 100);
+    text("killing people",50, 150);
+}
 
-// function draw(){
+function draw(){
 
-// }
+}
 
 
-// function mousePressed(){
-//     if (boolFlag){
-//         starwars.play();
-//     }
+function mousePressed(){
+    if (boolFlag){
+        starwars.play();
+    }
         
-//     else{
-//         starwars.stop();
-//     }
+    else{
+        starwars.stop();
+    }
 
-//     boolFlag = !boolFlag
-// }
+    boolFlag = !boolFlag
+}
 
-// function mouseReleased(){
-//     starwars.stop();
-// }
+function mouseReleased(){
+    starwars.stop();
+}
 
 
 
