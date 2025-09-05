@@ -17,7 +17,7 @@ function  setup(){
     fill('black');
     textSize(30);
     text("Uncle Roger",50, 50);
-    text("13",50, 100);
+    text("18",50, 100);
     text("killing black people",50, 150);
 }
 
