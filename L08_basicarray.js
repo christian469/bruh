@@ -21,9 +21,9 @@ function  setup(){
     text("killing black people",50, 150);
 
   
-    favFood = ["blood", "pasta", "dogs", "human meat"];
+    favFood = ["human blood", "pasta", "dogs", "human meat"];
 
-    console.log(favFood[4]);
+    console.log(favFood[]);
 
 }
 
