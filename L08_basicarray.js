@@ -16,7 +16,7 @@ function  setup(){
 
     fill('white');
     textSize(32);
-    text("GOODBYE WORLD")
+    text("GOODBYE WORLD", width/2)
 }
 
 function draw(){
