@@ -32,7 +32,7 @@ function  setup(){
         console.log(favFood[i]);
     }
     textSize(30)
-    textAlign(CustomElementRegistry, centre)
+    textAlign()
 
 function draw(){
 
