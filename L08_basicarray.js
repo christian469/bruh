@@ -26,7 +26,7 @@ function mousePressed(){
     }
         
     else{
-
+        starwars.stop();
     }
 
     boolFlag = !boolFlag
