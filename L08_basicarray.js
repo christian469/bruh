@@ -23,10 +23,13 @@ function draw(){
 function mousePressed(){
     if (boolFlag);
         starwars.play();
+    else{
+        
+    }
 }
 
-function mouseReleased(){
-    starwars.stop();
-}
+// function mouseReleased(){
+//     starwars.stop();
+// }
 
 boolFlag = !boolFlag
