@@ -32,7 +32,9 @@ function  setup(){
         // console.log(i);
         console.log(favFood[i]);
     }
-    text(i+1 + "");
+    text(i+1 + "."
+
+    );
     
 
 function draw(){
