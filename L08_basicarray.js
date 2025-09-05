@@ -31,6 +31,8 @@ function  setup(){
         console.log(i);
     }
 
+    
+
 function draw(){
 
 }
