@@ -23,6 +23,7 @@ function  setup(){
   
     favFood = ["blood", "pasta", "dogs", "human meat"];
 
+    consol
 
 
 function draw(){
