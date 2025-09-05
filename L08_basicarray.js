@@ -19,3 +19,7 @@ function draw(){
 function mousePressed(){
     starwars.play();
 }
+
+function mouseReleased(){
+    starwars.stop();
+}
