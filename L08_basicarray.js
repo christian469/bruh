@@ -17,5 +17,5 @@ function draw(){
 
 
 function mousePressed(){
-    starwars
+    starwars.play();
 }
