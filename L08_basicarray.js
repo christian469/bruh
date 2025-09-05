@@ -24,7 +24,7 @@ function  setup(){
     favFood = ["human blood", "pasta", "dogs", "human meat"];
 
     console.log(favFood[3]);
-    console.log
+    console.log(favFood[0])
 }
 
 function draw(){
