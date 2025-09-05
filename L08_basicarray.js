@@ -33,6 +33,7 @@ function  setup(){
     }
     textSize(30)
     textAlign(centre, centre)
+    Text("")
 
 function draw(){
 
