@@ -20,7 +20,7 @@ function  setup(){
     text("18",50, 100);
     text("killing black people",50, 150);
 }
-
+  
 
 
 
