@@ -31,8 +31,9 @@ function  setup(){
     for (let i = 0; i < favFood.length; i++){
         // console.log(i);
         console.log(favFood[i]);
+        text(i+1 + "." + favFood[i], width/ 2, 100 + 1 * 50);
     }
-    text(i+1 + "." + favFood[i], width/ 2, 100 + 1 * 50);
+   
 
 
 function draw(){
