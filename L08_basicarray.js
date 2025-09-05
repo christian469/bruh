@@ -19,12 +19,12 @@ function  setup(){
     text("Uncle Roger",50, 50);
     text("18",50, 100);
     text("killing black people",50, 150);
-}
+
   
     favFood = ["blood", "pasta", "dogs", "human meat"];
 
     console.log(favFood[4]);
-
+}
 
 function draw(){
 
