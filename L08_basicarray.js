@@ -31,7 +31,7 @@ function  setup(){
         // console.log(i);
         console.log(favFood[i]);
     }
-    
+    text(favFood[i])
     textSize(30)
     textAlign(centre, centre)
 
