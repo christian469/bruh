@@ -23,7 +23,7 @@ function  setup(){
   
     favFood = ["human blood", "pasta", "dogs", "human meat"];
 
-    console.log(favFood[0, 3]);
+    console.log(favFood[3]);
 
 }
 
