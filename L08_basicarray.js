@@ -2,7 +2,7 @@
 let starwars;
 // preload function
 function preload(){
-    starwars = loadsound("assets/star_wars_theme_8_bit.mp3")}
-
+    starwars = loadsound("assets/star_wars_theme_8_bit.mp3")
+}
 // setup()
 
