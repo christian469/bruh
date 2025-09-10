@@ -17,9 +17,9 @@ function  setup(){
     fill('black');
     textSize(30);
     textAlign(CENTER, CENTER);
-    text("Uncle Roger",50, 50);
-    text("18",50, 100);
-    text("killing black people",50, 150);
+    // text("Uncle Roger",50, 50);
+    // text("18",50, 100);
+    // text("killing black people",50, 150);
 
   
     favFood = ["human blood", "pasta", "dogs", "human meat", "cork"];
