@@ -22,7 +22,7 @@ function  setup(){
     // text("killing black people",50, 150);
 
   
-    favFood = ["human blood", "pasta", "dogs", "human meat", "cork"];
+    favFood = ["human blood", "pasta", "dogs", "human meat", ""];
 
     console.log(favFood[3]);
     console.log(favFood[0]);
