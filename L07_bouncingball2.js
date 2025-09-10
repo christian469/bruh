@@ -7,7 +7,7 @@ let ballWidth = 300;
 
 
 function setup(){
-    createCanvas(600, 400);
+    createCanvas(6000, 400);
 }
 
 
