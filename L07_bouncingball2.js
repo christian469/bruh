@@ -2,12 +2,12 @@ let ballX = 300;
 let ballY = 200;
 let ballXspeed = 9;
 let ballYspeed = 9;
-let ballWidth = 20;
+let ballWidth = 30;
 
 
 
 function setup(){
-    createCanvas(600, 400);
+    createCanvas(6000, 400);
 }
 
 
