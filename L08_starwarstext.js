@@ -22,4 +22,5 @@ function draw(){
     background('black')
     FileList("yellow")
     textSize(16)
+    textAlign
 }
