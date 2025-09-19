@@ -30,5 +30,5 @@ function draw(){
     textSize(16);
     textAlign(CENTER,CENTER);
 
-    text("go search up unbanned G", width/ 2, height/ 2);
+    text("go search up unbanned G+ and play ", width/ 2, height/ 2);
 }
