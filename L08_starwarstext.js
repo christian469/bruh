@@ -955,5 +955,7 @@ function mousePressed(){
     if (startAudio){
         bgmusic.play();
     }
-    
+    else{
+        bgmusic
+    }
 }
