@@ -947,7 +947,7 @@ function draw(){
         text("Click mouse to start Star Waes...", width/2, height/2);
     }
 
-    
+    console.log
 
 }
 
