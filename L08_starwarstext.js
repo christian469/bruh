@@ -14,7 +14,7 @@ let storyText = [
     "create amazing visuals and",
     "animations...",
     "",
-    "May the Code be with you!"
+    "May the Code be with you!, wswswwsswswwswsswwsws"
 ];
 
 
