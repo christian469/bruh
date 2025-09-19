@@ -941,7 +941,7 @@ function draw(){
             let sentence = storyText[i];
             text(sentence, width/2, ypos + i * 30);
         }
-        ypos = ypos - 10000000000000000000000000000000000000000000000000;
+        ypos = ypos - 100;
     }
     else{
         text("Click mouse to start Star Waes...", width/2, height/2);
