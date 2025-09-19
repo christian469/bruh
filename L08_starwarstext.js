@@ -26,7 +26,7 @@ function setup(){
 
 function draw(){
     background('black');
-    FileList("yellow");
+    fill("yellow");
     textSize(16);
     textAlign(CENTER,CENTER);
 
