@@ -951,4 +951,8 @@ function draw(){
 
 function mousePressed(){
     startAudio = !startAudio;
+
+    if (startAudio){
+        
+    }
 }
