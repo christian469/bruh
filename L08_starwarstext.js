@@ -15,9 +15,11 @@ let storyText = [
     "animations...",
     "",
     "May the Code be with you!"
-];
+];createCanvas
 
-function setup()
+function setup(){
+
+}
 
 
 
