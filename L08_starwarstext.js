@@ -956,6 +956,6 @@ function mousePressed(){
         bgmusic.play();
     }
     else{
-        bgmusic.stop
+        bgmusic.stop();
     }
 }
