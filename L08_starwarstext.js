@@ -23,4 +23,6 @@ function draw(){
     FileList("yellow")
     textSize(16)
     textAlign(CENTER,CENTER)
+
+    text()
 }
