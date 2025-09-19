@@ -941,7 +941,7 @@ function draw(){
             let sentence = storyText[i];
             text(sentence, width/2, ypos + i * 30);
         }
-        ypos = ypos - 10;
+        ypos = ypos - 1;
     }    
 
     else{
