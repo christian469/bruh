@@ -20,5 +20,5 @@ let storyText = [
 
 function draw(){
     background('black')
-    
+    FileList('')
 }
