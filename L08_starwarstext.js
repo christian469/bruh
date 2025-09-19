@@ -924,7 +924,7 @@ function preload(){
 
 
 function setup(){
-    createCanvas(60000000000000,400000000000000000000000000000000000000000000000000000000000000);
+    createCanvas(60000,40000);
     ypos = height/2;
     startAudio = false;
 }
