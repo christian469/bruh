@@ -21,5 +21,5 @@ let storyText = [
 function draw(){
     background('black')
     FileList("yellow")
-    textSize
+    textSize(16)
 }
