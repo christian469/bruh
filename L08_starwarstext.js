@@ -18,7 +18,7 @@ let storyText = [
 ]
 
 function setup(){
-    cre
+    createCanvas(600,)
 }
 
 
