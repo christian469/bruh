@@ -941,24 +941,23 @@ function draw(){
             let sentence = storyText[i];
             text(sentence, width/2, ypos + i * 30);
         }
-        ypos = ypos - 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;
-    }
+        ypos = ypos - 10;
+    }    
+
     else{
         text("Click mouse to start Star Waes...", width/2, height/2);
     }
-
-    console.log(ypos);
+}
     
+    function mousePressed(){
+        startAudio = !startAudio;
 
-}
-
-function mousePressed(){
-    startAudio = !startAudio;
-
-    if (startAudio){
-        bgmusic.play();
+        if (startAudio){
+            bgmusic.loop();
+            ypos = height;
+        }
+        else{
+            bgmusic.stop();
+            ypos = height;
+        }
     }
-    else{
-        bgmusic.stop();
-    }
-}
