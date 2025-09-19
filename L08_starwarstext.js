@@ -953,6 +953,7 @@ function mousePressed(){
     startAudio = !startAudio;
 
     if (startAudio){
-        bgmusic.play
+        bgmusic.play();
     }
+    
 }
