@@ -14,7 +14,7 @@ let storyText = [
     "create amazing visuals and",
     "animations...",
     "",
-    "May the Code be with you!, wswswwsswswwswsswwsws"
+    "May the Code be with you!, wswswwsswswwswsswwswsswddsasdadsawswdasasawddswswsswsdwswwsdswsdw"
 ];
 
 
@@ -40,5 +40,5 @@ function draw(){
          text(sentence, width/2, ypos + i * 20);
     }
 
-    ypos = ypos - 0.00000001;
+    ypos = ypos - 0.01;
 }
