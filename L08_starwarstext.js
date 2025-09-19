@@ -16,3 +16,8 @@ let storyText = [
     "",
     "May the Code be with you!"
 ];
+
+
+function draw(){
+    
+}
