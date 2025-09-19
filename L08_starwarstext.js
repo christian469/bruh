@@ -37,7 +37,7 @@ function draw(){
 
          let sentence = storyText[i];
 
-         text(sentence)
+         text(sentence, width/2)
 }
 
     }
