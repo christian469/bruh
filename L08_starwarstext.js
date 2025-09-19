@@ -21,7 +21,7 @@ let storyText = [
 
 function setup(){
     createCanvas(600,400);
-    ypos = height;
+    ypos = height/2;
 }
 
 
