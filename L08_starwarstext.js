@@ -19,10 +19,10 @@ let storyText = [
 
 
 function draw(){
-    background('black')
-    FileList("yellow")
-    textSize(16)
-    textAlign(CENTER,CENTER)
+    background('black');
+    FileList("yellow");
+    textSize(16);
+    textAlign(CENTER,CENTER);
 
     text("GOODBYE WORLD", width/ 2, height/ 2);
 }
