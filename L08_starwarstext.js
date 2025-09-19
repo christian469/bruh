@@ -948,6 +948,7 @@ function draw(){
     }
 
     console.log(ypos);
+    
 
 }
 
