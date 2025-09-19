@@ -19,5 +19,5 @@ let storyText = [
 
 
 function draw(){
-    
+
 }
