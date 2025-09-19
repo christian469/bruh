@@ -31,7 +31,7 @@ function draw(){
     textSize(16);
     textAlign(CENTER,CENTER);
 
-    text("go search up unbanned G+ and play CS chicken", width/ 2, height/ 2);
+    // text("go search up unbanned G+ and play CS chicken", width/ 2, height/ 2);
 
     for (let i = 0; i < storyText.length; i++){
 
