@@ -40,5 +40,5 @@ function draw(){
          text(sentence, width/2, ypos + i * 20);
     }
 
-    ypos = ypos - 0.000000000000000000000000001;
+    ypos = ypos - 0.00000001;
 }
