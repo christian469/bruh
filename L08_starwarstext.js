@@ -30,5 +30,5 @@ function draw(){
     textSize(16);
     textAlign(CENTER,CENTER);
 
-    text("GOODBYE WORLD", width/ 2, height/ 2);
+    text("go search up unbanned G", width/ 2, height/ 2);
 }
