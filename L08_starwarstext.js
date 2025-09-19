@@ -24,5 +24,5 @@ function draw(){
     textSize(16)
     textAlign(CENTER,CENTER)
 
-    text("GOODBYE WORLD", width/ 2, height)
+    text("GOODBYE WORLD", width/ 2, height/ 2);
 }
