@@ -33,7 +33,7 @@ function draw(){
 
     text("go search up unbanned G+ and play CS chicken", width/ 2, height/ 2);
 
-    for (let i = 0; 1 < storyText.length; i++){
+    for (let i = 0; i < storyText.length; i++){
 
          let sentence = storyText[i];
 
