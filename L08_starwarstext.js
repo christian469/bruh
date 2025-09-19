@@ -17,11 +17,11 @@ let storyText = [
     "May the Code be with you!"
 ];
 
+
+
 function setup(){
     createCanvas(600,400);
 }
-
-
 
 
 function draw(){
