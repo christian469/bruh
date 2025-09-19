@@ -944,7 +944,7 @@ function draw(){
         ypos = ypos - 1;
     }
     else{
-        text("Click mouse to start ")
+        text("Click mouse to start Star Waes...",)
     }
 
 }
