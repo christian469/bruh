@@ -34,7 +34,7 @@ function draw(){
 
     for (let i = 0; 1 < storyText.length; i++){
 
-         let sentence = storyText[i]
+         let sentence = storyText[i];
 }
 
     }
