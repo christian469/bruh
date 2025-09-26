@@ -10,5 +10,5 @@ function draw(){
     csecond = second();
     cminute = minute 
     ctime = cminute + " : " + csecond
-    text(csecond, width/ 2, height/ 2);
+    text(ctime, width/ 2, height/ 2);
 }
