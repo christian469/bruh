@@ -9,6 +9,6 @@ function draw(){
     background('pink');
     csecond = second();
     cminute = minute 
-    ctime = cminute + ""
+    ctime = cminute + " : "+
     text(csecond, width/ 2, height/ 2);
 }
