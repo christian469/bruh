@@ -2,7 +2,7 @@ let csecond, cminute, chour;
 let ctime;
 function setup(){
     createCanvas(600,400);
-    textSize(50);
+    textSize(80);
     textFont("consolas")
     textAlign(CENTER, CENTER)
 }
