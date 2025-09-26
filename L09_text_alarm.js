@@ -8,6 +8,6 @@ function setup(){
 function draw(){
     background('black');
 
-    csecond = second()
+    csecond = second();
 
 }
