@@ -22,5 +22,5 @@ function draw(){
 
 function mousePressed(){
     
-    interval = setInterval(updateCo)
+    interval = setInterval(updateCountdown, 1000)
 }
