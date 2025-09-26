@@ -7,7 +7,7 @@ function setup(){
 }
 
 function draw(){
-    background('pink');
+    background('white');
     csecond = second();
     cminute = minute();
     chour = hour();
