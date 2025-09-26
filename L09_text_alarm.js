@@ -2,7 +2,7 @@ let csecond;
 
 function setup(){
     createCanvas(600,400);
-    textSize();
+    textSize(90);
 }
 
 function draw(){
