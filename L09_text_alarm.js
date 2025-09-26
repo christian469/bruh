@@ -7,7 +7,7 @@ function setup(){
     textSize(80);
     textFont("cosmic san")
     textAlign(CENTER, CENTER)
-    countdown = 5;
+    countdown = ;
 }
 
 function draw(){
@@ -25,5 +25,5 @@ function mousePressed(){
 }
 
 function updateCountdown(){
-    countdown = countdown + 1;
+    countdown = countdown - 1;
 }
