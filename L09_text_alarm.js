@@ -7,6 +7,7 @@ function setup(){
     textSize(80);
     textFont("Monospace")
     textAlign(CENTER, CENTER)
+    
 }
 
 function draw(){
@@ -17,5 +18,5 @@ function draw(){
     ctime = nf(chour,2) + " : " + nf(cminute,2) + " : " + nf(csecond,2)
     text(ctime, width/ 2, height/ 2);
 
-    
+
 }
