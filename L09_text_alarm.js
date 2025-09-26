@@ -5,7 +5,7 @@ letcountdown;
 function setup(){
     createCanvas(600,400);
     textSize(80);
-    textFont("Monospace")
+    textFont("cosmic san")
     textAlign(CENTER, CENTER)
     countdown = 100;
 }
