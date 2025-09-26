@@ -8,6 +8,6 @@ function setup(){
 function draw(){
     background('pink');
     csecond = second();
-    c
+    cminute = minute 
     text(csecond, width/ 2, height/ 2);
 }
