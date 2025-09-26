@@ -7,7 +7,7 @@ function setup(){
     textSize(80);
     textFont("Monospace")
     textAlign(CENTER, CENTER)
-    
+    countdown = 100;
 }
 
 function draw(){
