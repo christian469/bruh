@@ -10,6 +10,6 @@ function draw(){
     csecond = second();
     cminute = minute();
     chour = hour();
-    ctime = nf(chour, 2) + " : " + cminute + " : " + csecond
+    ctime = nf(chour, 2) + " : " + (cminute,2) + " : " + csecond
     text(ctime, width/ 2, height/ 2);
 }
