@@ -8,5 +8,6 @@ function setup(){
 function draw(){
     background('pink');
     csecond = second();
+    c
     text(csecond, width/ 2, height/ 2);
 }
