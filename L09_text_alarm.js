@@ -2,13 +2,13 @@ let csecond, cminute, chour;
 let ctime;
 function setup(){
     createCanvas(600,400);
-    textSize(20);
+    textSize(50);
 }
 
 function draw(){
     background('pink');
     csecond = second();
-    cminute = minute
+    cminute = minute();
     ctime = cminute + " : " + csecond
     text(ctime, width/ 2, height/ 2);
 }
