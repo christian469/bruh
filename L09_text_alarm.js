@@ -1,4 +1,4 @@
-let csecond, cminute, chou;
+let csecond, cminute, chour;
 
 function setup(){
     createCanvas(600,400);
