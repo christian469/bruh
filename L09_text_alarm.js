@@ -7,9 +7,6 @@ function setup(){
 
 function draw(){
     background('black');
-
     csecond = second();
-
     text(csecond, width/ 2, height/ 2);
-
 }
