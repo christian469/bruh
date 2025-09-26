@@ -22,4 +22,5 @@ function draw(){
 
 function mousePressed(){
     
+    interval
 }
