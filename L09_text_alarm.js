@@ -3,7 +3,6 @@ let ctime;
 function setup(){
     createCanvas(600,400);
     textSize(50);
-    textAlgin(CustomElementRegistry,)
 }
 
 function draw(){
