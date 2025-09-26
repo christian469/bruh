@@ -8,7 +8,7 @@ function setup(){
 function draw(){
     background('pink');
     csecond = second();
-    cminute = minute 
+    cminute = minute
     ctime = cminute + " : " + csecond
     text(ctime, width/ 2, height/ 2);
 }
