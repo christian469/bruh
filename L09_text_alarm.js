@@ -10,6 +10,6 @@ function draw(){
 
     csecond = second();
 
-    Text(csecond, width/ 2, height/ 2)
+    Text(csecond, width/ 2, height/ 2);
 
 }
