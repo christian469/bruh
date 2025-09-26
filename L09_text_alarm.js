@@ -17,5 +17,5 @@ function draw(){
     chour = hour();
     ctime = nf(chour,2) + " : " + nf(cminute,2) + " : " + nf(csecond,2)
     text(ctime, width/ 2, height/ 2);
-    text(countdown)
+    text(countdown, width/2, height/2)
 }
