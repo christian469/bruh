@@ -3,7 +3,7 @@ let ctime;
 function setup(){
     createCanvas(600,400);
     textSize(80);
-    textFont("consolas")
+    textFont("Sans Serif")
     textAlign(CENTER, CENTER)
 }
 
