@@ -3,7 +3,7 @@ let ctime;
 function setup(){
     createCanvas(600,400);
     textSize(50);
-    texta
+    text
 }
 
 function draw(){
