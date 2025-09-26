@@ -1,5 +1,6 @@
 let csecond, cminute, chour;
 let ctime;
+let interval
 function setup(){
     createCanvas(600,400);
     textSize(80);
