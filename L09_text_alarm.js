@@ -5,7 +5,7 @@ letcountdown;
 let alarm;
 
 function preload(){
-    alarm = loadSound('')
+    alarm = loadSound('assets/Lose.mp3')
 }
 
 
