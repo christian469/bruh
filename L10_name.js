@@ -21,8 +21,8 @@ function draw(){
     fill("white");
     textSize(19);
     textAlign(CENTER,CENTER)
-    text(displayText, width/ 2, height/ 2);
-    text(displayAge, width/22, height/2)
+    text(displayText, width/2, height/2);
+    text(displayAge, width/2, height/2)
 
     text("Name", 80, 259);
     text("Age", 80, 310)
