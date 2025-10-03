@@ -11,7 +11,7 @@ function setup(){
 }
 
 function draw(){
-    background('hotred');
+    background('');
     csecond = second();
     cminute = minute();
     chour = hour();
