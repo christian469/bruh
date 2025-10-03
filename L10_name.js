@@ -10,9 +10,9 @@ function setup(){
     inputText.position(100, height - 100);
     inputText.input(updateText);
 
-     inputname = createInput();
+     inputName = createInput();
     inputName.position(150, height - 150);
-    inputName.input(updatename);
+    inputName.input(updateName);
 }
 
 function draw(){
