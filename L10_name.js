@@ -15,7 +15,7 @@ function setup(){
     inputName.position(105, height - 150);
     inputName.input(updateText);
 
-    inputAge = create
+    inputAge = createInput();
 
 }
 
