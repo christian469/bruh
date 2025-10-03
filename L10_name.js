@@ -1,6 +1,6 @@
 let displayText;
 let inputText;
-let 
+let inputname
 
 function setup(){
     createCanvas(600,400)
