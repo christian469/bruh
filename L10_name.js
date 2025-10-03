@@ -12,13 +12,10 @@ function setup(){
     inputText.position(100, height - 100);
     inputText.input(updateText);
 
-     inputName = createInput();
-    inputName.position(105, height - 150);
-    inputName.input(updateText);
+    //  inputName = createInput();
+    // inputName.position(105, height - 150);
+    // inputName.input(updateText);
 
-    inputAge = createInput();
-    inputAge.position(300, height - 50);
-    inputAge.input(updateAge)
 }
 
 function draw(){
