@@ -1,5 +1,9 @@
 let displayText;
-let inputText
+let inputText;
+
+
+
+
 
 
 function setup(){
