@@ -8,4 +8,5 @@ function setup(){
 
 function draw(){
     background('darkred')
-    Text(displayText, width/ 2, height/ 2);}
+    Text(displayText, width/ 2, height/ 2);
+}
