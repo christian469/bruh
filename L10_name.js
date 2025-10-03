@@ -4,6 +4,9 @@ let inputText;
 function setup(){
     createCanvas(600,400)
     displayText = "Let Diddy sharpen ur pencil XD"
+
+
+    
 }
 
 function draw(){
