@@ -19,7 +19,7 @@ function draw(){
     background('darkred')
     fill("white");
     textSize(24);
-    text("name")
+    text
     text(displayText, width/ 2, height/ 2);
 }
 
