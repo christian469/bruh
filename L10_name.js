@@ -1,11 +1,6 @@
 let displayText;
 let inputText;
 
-inputText = createInput();
-
-
-
-
 function setup(){
     createCanvas(600,400)
     displayText = "Let Diddy sharpen ur pencil XD"
