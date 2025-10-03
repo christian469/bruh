@@ -1,6 +1,3 @@
-
-
-
 let displayText;
 let inputText;
 let inputName;
