@@ -9,6 +9,6 @@ function setup(){
 
 function draw(){
     background('darkred')
-    Fil
+    File;()
     text(displayText, width/ 2, height/ 2);
 }
