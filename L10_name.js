@@ -10,7 +10,7 @@ function setup(){
     inputText.input(updateText);
 
      inputText = createInput();
-    inputText.position(100, height - 100);
+    inputname.position(100, height - 100);
     inputname.input(updatename);
 }
 
