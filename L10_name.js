@@ -11,7 +11,7 @@ function setup(){
     inputText.input(updateText);
 
      inputName = createInput();
-    inputName.position(101, height - 150);
+    inputName.position(105, height - 150);
     inputName.input(updateText);
 }
 
