@@ -12,7 +12,7 @@ function setup(){
 
      inputName = createInput();
     inputName.position(150, height - 150);
-    inputName.input(updateName);
+    inputName.input(updateText);
 }
 
 function draw(){
