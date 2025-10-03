@@ -5,7 +5,7 @@ letcountdown;
 let alarm;
 
 function preload(){
-    alarm = loadsound
+    alarm = loadSound('')
 }
 
 
