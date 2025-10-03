@@ -16,7 +16,7 @@ function setup(){
     inputName.input(updateText);
 
     inputAge = createInput();
-    inputAge.position
+    inputAge.position(300, height)
 }
 
 function draw(){
