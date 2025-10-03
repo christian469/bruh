@@ -11,6 +11,6 @@ function draw(){
     background('darkred')
     fill("white");
     textSize(24);
-    textAlign(CustomElementRegistry, CENT)
+    textAlign(CENTER)
     text(displayText, width/ 2, height/ 2);
 }
