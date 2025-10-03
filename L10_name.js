@@ -22,7 +22,7 @@ function draw(){
     textAlign(CENTER,CENTER)
     text(displayText, width/ 2, height/ 2);
 
-    text("Enter your name", 99, 150);
+    text("Enter your name", 99, 250);
 }
 
 
