@@ -1,7 +1,7 @@
 let csecond, cminute, chour;
 let ctime;
 let interval;
-letcountdown;
+let countdown;
 let alarm;
 
 function preload(){
