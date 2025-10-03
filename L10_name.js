@@ -1,7 +1,7 @@
 let displayText;
 let inputText;
 
-inputText = create
+inputText = createInput();
 
 
 
