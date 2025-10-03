@@ -1,4 +1,4 @@
-let dislay
+let displayText;
 
 
 
