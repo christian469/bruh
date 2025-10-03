@@ -5,7 +5,7 @@ letcountdown;
 let alarm;
 
 function preload(){
-    alarm = loadSound('assets/bossaNova.mp3')
+    alarm = loadSound('')
 }
 
 
