@@ -1,5 +1,6 @@
 let displayText;
 let inputText;
+let 
 
 function setup(){
     createCanvas(600,400)
@@ -11,7 +12,7 @@ function setup(){
 
      inputname = createInput();
     inputname.position(150, height - 150);
-    inputname.input(updatetext);
+    inputname.input(updatename);
 }
 
 function draw(){
