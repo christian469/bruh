@@ -2,7 +2,7 @@ let csecond, cminute, chour;
 let ctime;
 let interval;
 letcountdown;
-
+let alarm;
 
 
 
