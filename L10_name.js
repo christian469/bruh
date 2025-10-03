@@ -5,7 +5,7 @@ function setup(){
     createCanvas(600,400)
     displayText = "Let Diddy sharpen ur pencil XD"
 
-    input
+    inputText = create
 
 }
 
