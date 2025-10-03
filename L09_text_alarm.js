@@ -4,7 +4,9 @@ let interval;
 letcountdown;
 let alarm;
 
-
+function preload(){
+    
+}
 
 
 
