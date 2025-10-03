@@ -1,3 +1,4 @@
 function setup(){
-    createCanvasz(600,)
+    createCanvas(600,400)
+
 }
