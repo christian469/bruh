@@ -1,7 +1,7 @@
 let displayText;
 let inputText;
 let inputName;
-let displayA
+let displayAge;
 
 function setup(){
     createCanvas(600,400)
