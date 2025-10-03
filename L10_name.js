@@ -21,4 +21,6 @@ function draw(){
 
 
 
-function updateText
+function updateText(){
+    
+}
