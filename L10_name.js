@@ -10,6 +10,6 @@ function setup(){
 function draw(){
     background('darkred')
     fill("white");
-    texts
+    textSize
     text(displayText, width/ 2, height/ 2);
 }
