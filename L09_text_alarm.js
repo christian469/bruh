@@ -11,7 +11,7 @@ function setup(){
 }
 
 function draw(){
-    background('darkcyan');
+    background('');
     csecond = second();
     cminute = minute();
     chour = hour();
