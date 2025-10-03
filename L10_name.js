@@ -22,8 +22,8 @@ function draw(){
     textAlign(CENTER,CENTER)
     text(displayText, width/ 2, height/ 2);
 
-    text("Enter your name", 80, 259);
-    text("Enter your age", 80, 310)
+    text("Enter your Name", 80, 259);
+    text("Age", 80, 310)
 }
 
 
