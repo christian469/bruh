@@ -1,8 +1,7 @@
 let displayText;
 let inputText;
 let inputName;
-let displayAge;
-let inputAge;
+
 
 function setup(){
     createCanvas(600,400)
@@ -12,9 +11,9 @@ function setup(){
     inputText.position(100, height - 100);
     inputText.input(updateText);
 
-    //  inputName = createInput();
-    // inputName.position(105, height - 150);
-    // inputName.input(updateText);
+     inputName = createInput();
+    inputName.position(105, height - 150);
+    inputName.input(updateText);
 
 }
 
