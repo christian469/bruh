@@ -9,8 +9,8 @@ function setup(){
     inputText.position(100, height - 100);
     inputText.input(updateText);
 
-     inputText = createInput();
-    inputname.position(100, height - 100);
+     inputname = createInput();
+    inputname.position(150, height - 100);
     inputname.input(updatename);
 }
 
