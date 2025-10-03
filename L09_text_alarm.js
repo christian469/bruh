@@ -38,6 +38,6 @@ function updateCountdown(){
     }
     else{
         clearInterval(interval);
-        
+        alarm.play
     }
 }
