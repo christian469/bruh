@@ -8,5 +8,5 @@ function setup(){
 
 function draw(){
     background('darkred')
-    Text(display)
+    Text(displayText, width/ 2)
 }
