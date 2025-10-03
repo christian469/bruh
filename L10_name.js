@@ -23,7 +23,7 @@ function draw(){
     text(displayText, width/ 2, height/ 2);
 
     text("Enter your name", 80, 259);
-    text("")
+    text("Enter your age", )
 }
 
 
