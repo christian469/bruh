@@ -6,7 +6,7 @@ function setup(){
     displayText = "Let Diddy sharpen ur pencil XD"
 
     inputText = createInput();
-    inputText.position()
+    inputText.position(100, height -100)
 }
 
 function draw(){
