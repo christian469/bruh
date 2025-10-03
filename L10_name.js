@@ -18,7 +18,7 @@ function setup(){
 function draw(){
     background('darkred')
     fill("white");
-    textSize(13);
+    textSize(19);
     textAlign(CENTER,CENTER)
     text(displayText, width/ 2, height/ 2);
 
