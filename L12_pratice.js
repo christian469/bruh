@@ -10,7 +10,7 @@ function setup(){
 function draw(){
     for (let i = 0; i < heroes.length; i++){
     // console.log("Heroes: " +heroes[i]);
-    text(heroes[0], 100, 100);
+    text(heroes[i], 100, 100);
 
 }
 
