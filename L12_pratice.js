@@ -1,4 +1,4 @@
-heroes = ["bonnie", "chica", "freddy", "ballon boy", "foxy", "diddy", "sex worker"]
+heroes = ["bonnie", "chica", "freddy", "ballon boy", "foxy", "diddy", "mexyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy worker"]
 console.log(heroes[0]);
 console.log(heroes[1]);
 console.log(heroes[2]);
