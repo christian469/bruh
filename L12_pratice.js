@@ -1,5 +1,6 @@
 heroes = ["bonnie", "chica", "freddy", "ballon boy", "foxy", "diddy", "sex worker"]
 console.log(heroes[0]);
+cons
 
 for (let i = 34; i < 57; i++){
     console.log("number: " + i);
