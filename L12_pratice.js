@@ -1,6 +1,6 @@
 heroes = ["bonnie", "chica", "freddy", "ballon boy", "foxy", "diddy", "smexyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy worker"]
 for (let i = 0; i < heroes.length; i++){
-    console.log("Heroes")
+    console.log("Heroes: " +)
 }
 
 function setup(){
