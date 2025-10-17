@@ -1,4 +1,4 @@
-for (let i = 0; i < 101; i++){
+for (let i = 34; i < 57; i++){
     console.log("number: " + i);
 }
 
