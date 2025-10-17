@@ -1,4 +1,4 @@
-heroes = ["bonnie", "chica", "freddy", "ballon boy", "foxy", "diddy", "sex"]
+heroes = ["bonnie", "chica", "freddy", "ballon boy", "foxy", "diddy", "sex wo"]
 console.log(heroes[2]);
 
 for (let i = 34; i < 57; i++){
