@@ -1,4 +1,4 @@
-heroes = ["iron man", "bat man", "wonder"]
+heroes = ["iron man", "bat man", "wonder woman", ]
 
 
 for (let i = 34; i < 57; i++){
