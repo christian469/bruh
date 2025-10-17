@@ -5,7 +5,7 @@ function setup(){
     createCanvas(400, 600);
     background('maroon')
 
-    text
+    text(heroes[0], )
 }
 function draw(){
     for (let i = 0; i < heroes.length; i++){
