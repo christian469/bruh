@@ -7,7 +7,7 @@ console.log(heroes[4]);
 console.log(heroes[5]);
 console.log(heroes[6]);
 
-for (let i = 34; i < 57; i++){
+for (let i = 0; i < 57; i++){
     console.log("number: " + i);
 }
 
