@@ -1,4 +1,4 @@
-heros
+heroes = []
 
 
 for (let i = 34; i < 57; i++){
