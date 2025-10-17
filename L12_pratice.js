@@ -1,5 +1,5 @@
 for (let i = 0; i < 101; i++){
-    console.log()
+    console.log("number: " + i)
 }
 
 function setup(){
