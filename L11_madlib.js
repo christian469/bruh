@@ -1,6 +1,6 @@
 let inputNoun, inputVerb, inputAdjective, inputAdverb, inputPlace;
 let btnGenStory
-let storyText, storyTemplate
+let storyText, storyTemplate;
 
 function setup(){
     createCanvas(600,600);
