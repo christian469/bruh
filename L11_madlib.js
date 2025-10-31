@@ -28,6 +28,8 @@ function setup(){
     ];
 
     ranstory = random(storyTemplate);
+
+    storyText
 }
 
 function draw(){
