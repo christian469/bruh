@@ -27,7 +27,7 @@ function setup(){
         "once upen time, a {noun} {verb} {adverb} at the {place}"
     ];
 
-    ran
+    ranstory = random
 }
 
 function draw(){
