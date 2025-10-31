@@ -38,7 +38,7 @@ function draw(){
     text("Adverb:", 50, 250);
     text("Place:", 50, 300);
     pop();
-}haviung
+}
 
 function buttonStoryClicked(){
     console.log("Tytus was on top of another guy in bed ")
