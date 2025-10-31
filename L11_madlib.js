@@ -30,6 +30,7 @@ function setup(){
     ranstory = random(storyTemplate);
 
     storyText = ranstory.replace("{noun}", "dog")
+
 }
 
 function draw(){
