@@ -22,6 +22,8 @@ function setup(){
     btnGenStory = createButton("Generate Story");
     btnGenStory.position(200, 350);
     btnGenStory.mousePressed(buttonStoryClicked)
+
+    story
 }
 
 function draw(){
