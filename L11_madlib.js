@@ -41,6 +41,6 @@ function draw(){
 }
 
 function buttonStoryClicked(){
-    console.log("Tytus was on top of another guy in bed having a special type of fun without... with MrBeast while touching his pickle and goons to flat grils") 
+    console.log("Tytus was on top of another guy in bed having a special type of fun without... with MrBeast while touching his pickle and goons to flat girls and autis") 
     console.log(inputNoun.value());
 }
