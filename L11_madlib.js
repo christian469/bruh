@@ -29,7 +29,7 @@ function setup(){
 
     ranstory = random(storyTemplate);
 
-    storyText = ranstory
+    storyText = ranstor.replace("")
 }
 
 function draw(){
