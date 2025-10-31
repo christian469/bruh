@@ -53,4 +53,17 @@ function buttonStoryClicked(){
     console.log("Tytus was on top of another guy in bed having a special type of fun without... with MrBeast while touching his pickle and goons to flat girls and Autistic flat girls") 
     console.log(inputNoun.value());
      console.log(storyText);
+
+     ranstory = random(storyTemplate);
+
+
+
+
+
+
+
+
+
+
+
 }
