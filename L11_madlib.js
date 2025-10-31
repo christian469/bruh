@@ -61,6 +61,6 @@ function buttonStoryClicked(){
     storyText = storyText.replace("{noun}", inputVerb.value());
     storyText = storyText.replace("{noun}", inputAdjective.value());
     storyText = storyText.replace("{noun}", inputAdverb.value());
-    storyText = story.replace("{noun}", inputPlace.value());
+    storyText = storyText.replace("{noun}", inputPlace.value());
     console.log(storyText)
 }
