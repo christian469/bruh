@@ -23,7 +23,7 @@ function setup(){
     btnGenStory.position(200, 350);
     btnGenStory.mousePressed(buttonStoryClicked)
 
-    storyTemplate = []
+    storyTemplate = ["The "]
 }
 
 function draw(){
