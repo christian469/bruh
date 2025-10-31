@@ -24,7 +24,7 @@ function setup(){
     btnGenStory.mousePressed(buttonStoryClicked)
 
     storyTemplate = ["The {adjective} {noun} went {verb} at{place}.",
-        "once upen time, a {noun} {verb} {adverb} "
+        "once upen time, a {noun} {verb} {adverb} at the {} "
     ];
 }
 
