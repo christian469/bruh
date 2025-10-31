@@ -41,6 +41,6 @@ function draw(){
 }
 
 function buttonStoryClicked(){
-    console.log("Tytus was on top of another guy in bed havong a special type of fun  ")
+    console.log("Tytus was on top of another guy in bed havong a special type of fun without...")
     console.log(inputNoun.value());
 }
