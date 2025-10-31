@@ -41,6 +41,6 @@ function draw(){
 }
 
 function buttonStoryClicked(){
-    console.log("this button will kill anyone christian choose")
+    console.log("")
     console.log(inputNoun.value());
 }
