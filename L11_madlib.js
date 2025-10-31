@@ -46,7 +46,7 @@ function draw(){
     text("Adjective:", 50, 200);
     text("Adverb:", 50, 250);
     text("Place:", 50, 300);
-    text
+    text(storyText)
     pop();
 }
 
