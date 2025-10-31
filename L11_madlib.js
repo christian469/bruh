@@ -61,7 +61,6 @@ function buttonStoryClicked(){
     storyText = ranstory.replace("{noun}", inputVerb.value());
     storyText = ranstory.replace("{noun}", inputAdjective.value());
     storyText = ranstory.replace("{noun}", inputAdverb.value());
-    storyText = ranstory.replace("{noun}", inputplace.value());
-    storyText = ranstory.replace("{noun}", inputNoun.value());
+    storyText = ranstory.replace("{noun}", inputPlace.value());
     console.log(storyText)
 }
