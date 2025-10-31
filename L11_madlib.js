@@ -57,13 +57,5 @@ function buttonStoryClicked(){
      ranstory = random(storyTemplate);
 
 
-
-
-
-
-
-
-
-
-
-}
+        storyText = ranstory.replace("{noun}", "dog")
+    console.log(storyText)}
