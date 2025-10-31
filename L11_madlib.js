@@ -26,6 +26,8 @@ function setup(){
     storyTemplate = ["The {adjective} {noun} went {verb} at{place}.",
         "once upen time, a {noun} {verb} {adverb} at the {place}"
     ];
+
+    ran
 }
 
 function draw(){
