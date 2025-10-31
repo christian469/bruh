@@ -24,7 +24,7 @@ function setup(){
     btnGenStory.mousePressed(buttonStoryClicked)
 
     storyTemplate = ["The {adjective} {noun} went {verb} at{place}.",
-        "once upen time, {noun} {verb} {adverb} at the {place}"
+        "once upen time, {noun} went to go {verb} {adverb} at the {place}"
     ];
 
     ranstory = random(storyTemplate);
