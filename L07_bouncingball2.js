@@ -1,7 +1,7 @@
 let ballX = 300;
 let ballY = 200;
-let ballXspeed = 7;
-let ballYspeed = 7;
+let ballXspeed = 3;
+let ballYspeed = 3;
 let ballWidth = 30;
 
 
