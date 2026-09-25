@@ -1,4 +1,4 @@
-heroes = ["bonnie", "chica", "freddy", "ballon boy", "foxy", "diddy", "smexyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy worker"]
+heroes = ["bonnie", "chica", "freddy", "ballon boy", "foxy", "worker"]
 
 
 function setup(){
